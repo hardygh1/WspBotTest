@@ -1,0 +1,42 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933227824@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B47D1D2A87DC5DF096',
+    participant: undefined
+  },
+  messageTimestamp: 1713584725,
+  pushName: 'Hardy Bruno Guizado',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51933227824'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57efd390-b091-4334-b1bf-87131cf6d450',
+  keyword: 'key_d7cfc0da-8457-4522-91cc-b6c58d24d79f',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1de78ce50f5e7a2469c8aa1dadd99822'
+}
